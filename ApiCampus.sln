@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCampus", "ApiCampus\ApiCampus.csproj", "{A270479D-B271-482C-BE48-427812AA35ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A270479D-B271-482C-BE48-427812AA35ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A270479D-B271-482C-BE48-427812AA35ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A270479D-B271-482C-BE48-427812AA35ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A270479D-B271-482C-BE48-427812AA35ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {669FEB17-3645-416E-BFDD-17759375AECF}
+	EndGlobalSection
+EndGlobal
